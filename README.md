@@ -60,4 +60,4 @@ Aqui estão os mockups das principais telas da solução:
 
 ### 🔗 Protótipo Interativo
 Você pode navegar e testar a usabilidade do sistema completo diretamente no ambiente onde o projetei:
-👉 [**Clique aqui para testar o Protótipo Navegável no Canva**](https://www.canva.com/design/DAHIdn_QVj0/UnLDfxBalBqEXiHy6r7xJg/view?utm_content=DAHIdn_QVj0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlld=hfaf2ca6629)
+👉 [**Clique aqui para testar o Protótipo Navegável no Canva**](https://canva.link/62w4kgrv5d7wlkm)
